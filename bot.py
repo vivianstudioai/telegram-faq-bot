@@ -1,6 +1,6 @@
 """Telegram FAQ bot - answers customer questions from your own FAQ file.
 
-Vivian Studio - https://www.freelancer.com/u/vivianstudioai
+Mohamed Salah
 """
 import json
 import logging
