@@ -1,0 +1,31 @@
+{
+  "welcome_message": "Welcome to Cairo Bites! Ask me anything - menu, hours, delivery, or today's specials.",
+  "fallback_message": "Sorry, I don't have an answer for that yet. I've noted your question and our team will get back to you here shortly.",
+  "entries": [
+    {
+      "question": "What are your opening hours?",
+      "aliases": ["when are you open", "opening times", "working hours"],
+      "answer": "We're open daily from 12:00 PM to 12:00 AM, including weekends and holidays."
+    },
+    {
+      "question": "Do you deliver?",
+      "aliases": ["delivery", "do you have delivery", "can you deliver to my area"],
+      "answer": "Yes! We deliver across Giza and central Cairo. Delivery takes 35-45 minutes and costs EGP 25 (free for orders over EGP 500)."
+    },
+    {
+      "question": "What is on the menu?",
+      "aliases": ["menu", "show me the menu", "what food do you have"],
+      "answer": "Tonight's categories: Grills, Seafood, and Desserts. Try 'mixed grill' for our most popular dish, or ask for today's specials."
+    },
+    {
+      "question": "How much is the mixed grill?",
+      "aliases": ["mixed grill price", "price of mixed grill"],
+      "answer": "The Mixed Grill Platter is EGP 320 - kebab, kofta, and shish tawook with rice, salad, and fresh bread."
+    },
+    {
+      "question": "How can I pay?",
+      "aliases": ["payment methods", "can I pay by card", "cash on delivery"],
+      "answer": "We accept cash on delivery, Vodafone Cash, and InstaPay. Card payment online is coming soon."
+    }
+  ]
+}
