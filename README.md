@@ -1,6 +1,6 @@
 # Telegram FAQ Bot
 
-A production-ready Telegram chatbot that answers customer questions from **your own FAQ file** - no code changes needed to update answers. Built by [Vivian Studio](https://www.freelancer.com/u/vivianstudioai).
+A production-ready Telegram chatbot that answers customer questions from **your own FAQ file** - no code changes needed to update answers. Built by Mohamed Salah.
 
 The same bot we deploy for restaurants, clinics, and online stores. It answers instantly from your knowledge base, and politely says when it doesn't know - logging every unanswered question so you can grow your FAQ over time.
 
